@@ -21,3 +21,5 @@ For the data, I used the Fake Web Events lib (https://github.com/andresionek91/f
    Amazon Glue Data Catalog provides a uniform repository where disparate systems can store and find metadata to keep track of data in data silos. You can then use the metadata to query and transform that data in a consistent manner across a wide variety of applications.
  * **Athena:** <br>
   Amazon Athena is a serverless, interactive query service to query data and analyze big data in Amazon S3 using standard SQL.
+ * **Boto3:** <br>
+  Boto3 makes it easy to integrate your Python application, library, or script with AWS services including Amazon S3, Amazon EC2, Amazon DynamoDB, and more.
