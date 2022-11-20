@@ -8,4 +8,4 @@ Basically I created this scenario:
 ---
 # The Data
 
-For the data, I used the Fake Web Events lib (https://github.com/andresionek91/fake-web-events) which is a semi-random fake web event generator. Where you can use to generate semi-random web events for your study.
+For the data, I used the Fake Web Events lib (https://github.com/andresionek91/fake-web-events) which is a fake web event generator. Where you can use to generate semi-random web events for your study.
