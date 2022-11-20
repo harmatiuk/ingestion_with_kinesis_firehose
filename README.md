@@ -17,7 +17,7 @@ For the data, I used the Fake Web Events lib (https://github.com/andresionek91/f
   Amazon Kinesis Data Firehose is an extract, transform, and load (ETL) service that reliably captures, transforms, and delivers streaming data to data lakes, data stores, and analytics services.
  * **S3 Bucket:** <br>
   Amazon S3 bucket (Simple Storage Service), is an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
- * **Glue DataCatalog** <br>
+ * **Glue Data Catalog:** <br>
    Amazon Glue Data Catalog provides a uniform repository where disparate systems can store and find metadata to keep track of data in data silos. You can then use the metadata to query and transform that data in a consistent manner across a wide variety of applications.
- * **Athena** <br>
+ * **Athena:** <br>
   Amazon Athena is a serverless, interactive query service to query data and analyze big data in Amazon S3 using standard SQL.
